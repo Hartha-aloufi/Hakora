@@ -55,7 +55,7 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
+# .env
 
 # build folder
 public
@@ -65,7 +65,7 @@ public
 
 # secrets
 .contentful.json
-.env*
+# .env*
 !.env.example
 
 # Local Netlify folder
